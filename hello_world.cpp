@@ -2,8 +2,8 @@
 #include <string>
 
 int main(){
-    string name; // Name var
-    std::cin >> name; // Name input
-    std::cout << "Hello world from " << name; // Phrase output
+    string name; // Name переменная
+    std::cin >> name; // Name ввод
+    std::cout << "Hello world from " << name; // Вывод фразы
     return 0;
 } 
